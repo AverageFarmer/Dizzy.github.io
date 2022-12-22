@@ -14,6 +14,9 @@
     h1, h2, h3 {
         text-align: center;
     }
+
+
+
     
     /* Style the navigation menu */
     nav {
@@ -63,16 +66,16 @@
 <body>
 	<h1>My Work</h1>
 	<h2>Video Production</h2>
-	
+
 	<!-- Embed a video -->
 	<div class="video-container">
-		<p>Flight Mechanics</p>
+		<p style = "text-align:center">Flight Mechanics</p>
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/Pdh3oY2LK5k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	
 	<!-- Embed another video -->
 	<div class="video-container">
-		<p>Description of the second video goes here.</p>
+		<p style = "text-align:center"> Description of the second video goes here.</p>
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/AXXzbILVfRo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	
