@@ -52,8 +52,8 @@
     <h1>My Portfolio</h1>
     <ul>
         <li><a href="index.html">Home</a></li>
-        <li><a href="aboutme.php">About Me</a></li>
         <li><a href="work.php">My Work</a></li>
+        <li><a href="contact.php">About Me</a></li>
         <!--<li><a href="contact.php">Contact Me</a></li>-->
     </ul>
 </nav>
