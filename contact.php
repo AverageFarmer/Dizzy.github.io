@@ -51,7 +51,7 @@
     <ul>
         <li><a href="index.html">Home</a></li>
         <li><a href="work.php">My Work</a></li>
-        <li><a href="contact.php">Contact</a></li>
+        <li><a href="contact.php">Contacts</a></li>
     </ul>
 </nav>
 <head>
