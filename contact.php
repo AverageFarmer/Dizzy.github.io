@@ -50,15 +50,15 @@
     <h1>My Portfolio</h1>
     <ul>
         <li><a href="index.html">Home</a></li>
-        <li><a href="contact.php">About Me</a></li>
         <li><a href="work.php">My Work</a></li>
+        <li><a href="contact.php">Contact</a></li>
     </ul>
 </nav>
 <head>
-	<title>About Me</title>
+	<title>Contact</title>
 </head>
 <body>
-	<h1>About Me</h1>
+	<h1>Contacts</h1>
 	<p>Hello! I am a creative professional with a passion for creating engaging and impactful media. I specialize in video production and have a strong background in design and storytelling. Take a look at my work to see some of my past projects.</p>
 </body>
 </html>
